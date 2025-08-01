@@ -47,5 +47,4 @@ Khanahmadi, N., Yousefi, M.R., Dehghani, A. (2024). Utilizing Phase Locking Valu
 
 
 
-If you use this work, please cite:
 
